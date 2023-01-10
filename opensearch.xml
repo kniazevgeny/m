@@ -1,0 +1,5 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>🌐</ShortName>
+<Description>найдется всё</Description>
+<Url type="text/html" method="get" template="https://kniazevgeny.github.io/m?q={searchTerms}"/>
+</OpenSearchDescription>
